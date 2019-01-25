@@ -1,0 +1,14 @@
+C:\Users\lrapp\source\repos\sandbox\sandbox\bin\Debug\sandbox.exe
+C:\Users\lrapp\source\repos\sandbox\sandbox\bin\Debug\sandbox.pdb
+C:\Users\lrapp\source\repos\sandbox\sandbox\obj\Debug\sandbox.csprojAssemblyReference.cache
+C:\Users\lrapp\source\repos\sandbox\sandbox\obj\Debug\sandbox.csproj.CoreCompileInputs.cache
+C:\Users\lrapp\source\repos\sandbox\sandbox\obj\Debug\sandbox.exe
+C:\Users\lrapp\source\repos\sandbox\sandbox\obj\Debug\sandbox.pdb
+C:\Users\lrapp\source\repos\sandbox\sandbox\bin\Debug\itextsharp.dll
+C:\Users\lrapp\source\repos\sandbox\sandbox\bin\Debug\itextsharp.xml
+C:\Users\lrapp\source\repos\sandbox\sandbox\obj\Debug\sandbox.csproj.CopyComplete
+C:\Users\lrapp\source\repos\sandbox\sandbox\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\lrapp\source\repos\sandbox\sandbox\bin\Debug\NPOI.dll
+C:\Users\lrapp\source\repos\sandbox\sandbox\bin\Debug\NPOI.OOXML.dll
+C:\Users\lrapp\source\repos\sandbox\sandbox\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\lrapp\source\repos\sandbox\sandbox\bin\Debug\NPOI.OpenXmlFormats.dll
